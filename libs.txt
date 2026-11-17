@@ -1,0 +1,7 @@
+torch
+tokenizers
+datasets
+safetensors
+numpy
+tqdm
+gguf
